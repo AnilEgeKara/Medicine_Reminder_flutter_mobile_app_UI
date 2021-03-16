@@ -22,6 +22,7 @@ environment:
 
 dependencies:
   syncfusion_flutter_calendar: ^18.4.48
+  shared_preferences: '0.5.12+4'
   font_awesome_flutter: '>= 4.7.0' #font awesome icons
   intl: "0.16.1"
   flutter:
